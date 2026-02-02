@@ -11,3 +11,7 @@ params:
   home:
     head:
       title: site
+  projects:
+    index:
+      layout: list
+      truncate_description: 0
