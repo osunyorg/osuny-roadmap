@@ -1,6 +1,7 @@
 theme: osuny-www-design-system
 _merge: deep
 params:
+  additional_csp: cusdis.com
   summary:
     position: hero
   search:
