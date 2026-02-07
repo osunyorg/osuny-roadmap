@@ -26,14 +26,12 @@ contents:
       text: >-
         <p>Vous souhaitez financer un projet, proposer une fonctionnalité ou contribuer au code ? Envoyez-nous un courriel via le lien suivant.</p>
 
-
       buttons:
-        - title: >-
+        - 
+          title: >-
             Contacter Osuny
-
           url: >-
             mailto:contact@osuny.org
-
           target_blank: false
 
 
