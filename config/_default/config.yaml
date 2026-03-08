@@ -2,17 +2,10 @@ theme: osuny-www-design-system
 _merge: deep
 params:
   additional_csp: cusdis.com 'unsafe-inline'
-  summary:
-    position: hero
-  search:
-    active: true
-  logo:
-    header: ''
-    footer: ''
-  home:
-    head:
-      title: site
   projects:
     index:
       layout: list
       truncate_description: 0
+      options:
+        summary: false
+        categories: false

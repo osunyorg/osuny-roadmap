@@ -1,8 +1,33 @@
-.project
-    .project-content
-        .project-summary
-            @include media-breakpoint-up(desktop)
-                margin-left: offset(6)
+.page__home
+    .hero
+        background: $color-background-alt
+        @include media-breakpoint-up(desktop)
+            display: flex
+            align-items: end
+            .container
+                .content
+                    .hero-text
+                        width: 100%
+                        display: flex
+                        justify-content: space-between
+                        align-items: end
+                        .hero-actions
+                            margin-top: 0
+.projects__page
+    .hero
+        .container
+            .content
+                .hero-text
+                    hgroup
+                        display: block
+                        h1
+                            width: 100%
+                            position: relative
+                        p
+                            text-align: left
+                            padding-left: 0
+    .breadcrumb-nav
+        padding-left: 0 !important
 #cusdis_thread
     iframe
         min-height: 500px
