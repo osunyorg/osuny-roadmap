@@ -10,7 +10,7 @@ header_text: >-
 url: "/"
 slug: ""
 date: 2026-01-09T14:55:15+01:00
-lastmod: 2026-03-08T09:28:01+01:00
+lastmod: 2026-03-08T09:46:15+01:00
 meta:
   hugo:
     permalink: "/"
@@ -19,7 +19,7 @@ meta:
     slug: ""
   dates:
     created_at: 2026-01-09T14:55:15+01:00
-    updated_at: 2026-03-08T09:28:01+01:00
+    updated_at: 2026-03-08T09:46:15+01:00
     published_at: 2026-01-09T14:55:15+01:00
 search:
   id: "13b7a5f9-9ad0-4c28-b88d-9bf63c536c47"
@@ -30,8 +30,9 @@ search:
   title: >-
     Accueil
   summary: >-
-    <p>La roadmap Osuny est un outil destiné aux usagers du CMS qui souhaitent proposer de nouvelles fonctionnalités au commun. Avec la roadmap, vous pouvez voir quels projets ont été proposés, notifier vos demandes, et mieux connaître le coût des fonctionnalités à développer.</p>
-
+    <p>La roadmap est l'outil de pilotage collaboratif d'Osuny.</p>
+  body: >-
+    <p>  <br>Destinée à la communauté Osuny, la roadmap permet de proposer de nouvelles fonctionnalités au commun, de voir quelles idées ont déjà été proposées, de consulter qui a financé quoi et de mutualiser le financement des fonctionnalités.</p>  <p> Ajouts récents </p>
 
 breadcrumbs:
   - title: >-
@@ -58,24 +59,55 @@ children:
   - "organizations/_index.html"
 
 summary: >-
-  <p>La roadmap Osuny est un outil destiné aux usagers du CMS qui souhaitent proposer de nouvelles fonctionnalités au commun. Avec la roadmap, vous pouvez voir quels projets ont été proposés, notifier vos demandes, et mieux connaître le coût des fonctionnalités à développer.</p>
+  <p>La roadmap est l'outil de pilotage collaboratif d'Osuny.</p>
 header_cta:
+  target: "/fonctionnalites"
+  external: false
+  label: >-
+    Voir la liste des fonctionnalités
 
 
 contents_reading_time:
-  seconds: 0
+  seconds: 11
   text: >-
     moins d'une minute
 contents:
   - kind: block
-    template: projects
+    template: chapter
 
 
     ranks:
       base: 2
-      children: 2
     top:
       active: false
+
+    data:
+      layout: accent_background
+      text: >-
+        <p>Destinée à la communauté Osuny, la roadmap permet de proposer de nouvelles fonctionnalités au commun, de voir quelles idées ont déjà été proposées, de consulter qui a financé quoi et de mutualiser le financement des fonctionnalités.</p>
+
+
+
+
+
+
+  - kind: block
+    template: projects
+    title: >-
+      Ajouts récents
+    slug: >-
+      ajouts-recents
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Ajouts récents
+        heading: 2
+        link: "/fonctionnalites/"
 
     data:
       mode: all
@@ -109,35 +141,6 @@ contents:
             Ajout de précisions sur le champ Description interne de formulaire Media
 
       quantity: 3
-
-  - kind: block
-    template: pages
-
-
-    ranks:
-      base: 2
-      children: 2
-    top:
-      active: false
-
-    data:
-      options:
-        image: true
-        categories: false
-        main_summary: true
-        summary: true
-
-      layout: list
-      pages:
-        - permalink: "/fonctionnalites/"
-          path: "/projects"
-          slug: "fonctionnalites"
-          file: "content/fr/projects/_index.html"
-          name: >-
-            Fonctionnalités
-
-      quantity: 1
-
 
 
 ---
