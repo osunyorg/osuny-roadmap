@@ -25,7 +25,6 @@ contents:
       layout: accent_background
       text: >-
         <p>Vous souhaitez contribuer ? Envoyez-nous un courriel via le lien suivant, ou rejoignez la communauté slack et discutons-en.</p>
-
       buttons:
         - 
           title: >-

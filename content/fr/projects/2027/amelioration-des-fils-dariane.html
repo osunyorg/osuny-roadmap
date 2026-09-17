@@ -101,9 +101,6 @@ contents:
 
 
 
-
-
-
   - kind: block
     template: chapter
     title: >-
@@ -124,9 +121,6 @@ contents:
       layout: no_background
       text: >-
         <p><b>Désactivation du fonctionnement natif</b></p><p>En offrant une possibilité de désactiver le fonctionnement natif d'une page (de personnes par exemple), Ecocean pourrait utiliser la page Personnes en la glissant dans À propos. Cela résout parfaitement le fil d'ariane. On peut imaginer 2 façons de le faire : soit avec une case à cocher explicite (désactiver la liste automatique des personnes), soit en considérant que l'ajout d'un bloc Personnes coupe le fonctionnement natif automatiquement.</p><p>Charge de travail : 1 journée (800 €HT)</p><p><b>Objets non canoniques</b></p><p>On peut générer, pour chaque catégorie attribuée à un objet, un fichier Git qui va permettre de générer une page non canonique. Une organisation qui serait à la fois partenaire et exposants générerait donc 3 pages : </p><ul> <li>Accueil / Organisations / Daumet (canonique)</li> <li>Accueil / Partenaires / Daumet</li> <li>Accueil / Exposants / Daumet</li> </ul><p>ou </p><ul> <li>Accueil / Organisations / Partenaires / Daumet</li> <li>Accueil / Organisations / Exposants / Daumet</li> </ul><p>Ensuite, quand on appelle un objet dans un bloc à partir de la catégorie, on pointe vers la bonne page. C'est assez difficile à coder correctement.</p><p>Charge de travail : 8 journées (6400 €HT)</p><p><b>Catégorie principale</b></p><p>On pourrait attribuer, dans un site, une catégorie principale à chaque type d'objet, qui deviendrait le lien privilégié. Une organisation qui serait à la fois partenaire et exposants, en catégorie principale "partenaire" génère donc une seule page </p><ul><li>Accueil / Organisations / Partenaires / Daumet</li></ul><p>L'avantage c'est que le breadcrumb tient compte de la catégorie principale. L'inconvénient est que si on affiche la liste des exposants et qu'on clique sur l'organisation on se retrouve dans la partie Partenaires, ce qui est troublant. Si on clique sur l'organisation sans contexte on irait quand même sur l'organisation dans le contexte Partenaires.</p><p>Cette solution est une mauvaise idée parce qu'elle entraine des comportements inattendus.</p>
-
-
-
 
 
 
