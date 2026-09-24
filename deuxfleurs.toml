@@ -15,12 +15,36 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fonctionnalites/2024-ameliorer-le-style-de-lextranet/index.html"
+to = "/fonctionnalites/2028-ameliorer-le-style-de-lextranet/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-ajouter-loptions-afficher-les-categories-dans-le-bloc-pages/index.html"
+to = "/fonctionnalites/2028-ajouter-loptions-afficher-les-categories-dans-le-bloc-pages/"
+
+[[redirects]]
 from = "/fonctionnalites/2024-nettoyage-des-liens-en-dur/index.html"
 to = "/fonctionnalites/2028-nettoyage-des-liens-en-dur/"
 
 [[redirects]]
 from = "/fonctionnalites/2023-ajouter-la-possibilite-dinverser-les-chapitres-avec-images/index.html"
 to = "/fonctionnalites/2028-ajouter-la-possibilite-dinverser-les-chapitres-avec-images/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-glossaire/index.html"
+to = "/fonctionnalites/2028-glossaire/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-moteur-de-recherche-avance/index.html"
+to = "/fonctionnalites/2028-moteur-de-recherche-avance/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-bloc-personnes-options-daffichage/index.html"
+to = "/fonctionnalites/2028-bloc-personnes-options-daffichage/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-source-pour-liens-de-menus/index.html"
+to = "/fonctionnalites/2028-source-pour-liens-de-menus/"
 
 [[redirects]]
 from = "/fonctionnalites/2023-recherche-globale-dans-lextranet/index.html"
@@ -31,12 +55,32 @@ from = "/fonctionnalites/2026-web-to-print/index.html"
 to = "/fonctionnalites/2027-web-to-print/"
 
 [[redirects]]
+from = "/fonctionnalites/2025-generer-les-favicons-depuis-ladmin/index.html"
+to = "/fonctionnalites/2028-generer-les-favicons-depuis-ladmin/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-gestion-des-lieux-des-evenements-et-expositions/index.html"
+to = "/fonctionnalites/2028-gestion-des-lieux-des-evenements-et-expositions/"
+
+[[redirects]]
 from = "/fonctionnalites/2023-job-board-dans-lextranet/index.html"
 to = "/fonctionnalites/2028-job-board-dans-lextranet/"
 
 [[redirects]]
+from = "/fonctionnalites/2025-duree-des-projets/index.html"
+to = "/fonctionnalites/2028-duree-des-projets/"
+
+[[redirects]]
 from = "/fonctionnalites/2024-unification-des-organisations/index.html"
 to = "/fonctionnalites/2028-unification-des-organisations/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-suppression-de-page-depuis-larborescence/index.html"
+to = "/fonctionnalites/2028-suppression-de-page-depuis-larborescence/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-integration-pictotheque/index.html"
+to = "/fonctionnalites/2028-integration-pictotheque/"
 
 [[redirects]]
 from = "/fonctionnalites/2024-rendre-les-blocs-title-et-text-editables-in-place/index.html"
@@ -51,8 +95,20 @@ from = "/fonctionnalites/2023-preciser-la-langue-dun-chapitre/index.html"
 to = "/fonctionnalites/2028-preciser-la-langue-dun-chapitre/"
 
 [[redirects]]
+from = "/fonctionnalites/2024-copiercoller-de-blocs-creer-une-methode-qui-verifie-la-possibilite-de-coller-un-bloc/index.html"
+to = "/fonctionnalites/2028-copiercoller-de-blocs-creer-une-methode-qui-verifie-la-possibilite-de-coller-un-bloc/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-ajout-dun-champ-texte-a-limage-du-hero/index.html"
+to = "/fonctionnalites/2028-ajout-dun-champ-texte-a-limage-du-hero/"
+
+[[redirects]]
 from = "/fonctionnalites/2023-menus-ajout-dun-bouton-restaurer-le-menu-automatique/index.html"
 to = "/fonctionnalites/2028-menus-ajout-dun-bouton-restaurer-le-menu-automatique/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-ajout-dune-option-icone-dans-les-blocs-chiffres-cles-fonctionnalites-et-liens/index.html"
+to = "/fonctionnalites/2028-ajout-dune-option-icone-dans-les-blocs-chiffres-cles-fonctionnalites-et-liens/"
 
 [[redirects]]
 from = "/fonctionnalites/2023-avoir-un-bloc-calendrier-qui-permet-dafficher-un-calendrier-depuis-une-source-externe-ou-source-inte/index.html"
@@ -63,16 +119,36 @@ from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/devis-001935-noesya-rennes-metropolepdf/"
 
 [[redirects]]
+from = "/fonctionnalites/2025-permettre-de-selectionner-une-categorie-dans-les-menus/index.html"
+to = "/fonctionnalites/2028-permettre-de-selectionner-une-categorie-dans-les-menus/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-possibilite-de-supprimer-un-ensemble-darticle-depuis-actualite/index.html"
+to = "/fonctionnalites/2028-possibilite-de-supprimer-un-ensemble-darticle-depuis-actualite/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-changer-lordonnancement-des-blocs-creneaux/index.html"
+to = "/fonctionnalites/2028-changer-lordonnancement-des-blocs-creneaux/"
+
+[[redirects]]
 from = "/fonctionnalites/2024-possibilite-de-mettre-en-avant-un-projet-portfolio/index.html"
 to = "/fonctionnalites/2028-possibilite-de-mettre-en-avant-un-projet-portfolio/"
 
 [[redirects]]
 from = "/fonctionnalites/2025-ajout-de-feature-lieu-sur-agenda/index.html"
-to = "/fonctionnalites/2025-gestion-des-lieux-des-evenements-et-expositions/"
+to = "/fonctionnalites/2028-gestion-des-lieux-des-evenements-et-expositions/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-ajouter-une-option-alwaysfullscreen-au-website/index.html"
+to = "/fonctionnalites/2028-ajouter-une-option-alwaysfullscreen-au-website/"
 
 [[redirects]]
 from = "/fonctionnalites/2024-option-des-pages-speciales/index.html"
 to = "/fonctionnalites/2028-option-des-pages-speciales/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-choix-de-lordre-des-pages-dans-les-blocs-pages/index.html"
+to = "/fonctionnalites/2028-choix-de-lordre-des-pages-dans-les-blocs-pages/"
 
 [[redirects]]
 from = "/fonctionnalites/2023-mise-a-jour-vers-le-sanitizer-html5/index.html"
@@ -83,6 +159,10 @@ from = "/fonctionnalites/2024-mettre-les-categories-de-documents-dextranet-en-mo
 to = "/fonctionnalites/2028-mettre-les-categories-de-documents-dextranet-en-mode-taxo/"
 
 [[redirects]]
+from = "/fonctionnalites/2024-gerer-le-code-rncp-des-formations/index.html"
+to = "/fonctionnalites/2028-gerer-le-code-rncp-des-formations/"
+
+[[redirects]]
 from = "/fonctionnalites/2022-ameliorer-la-gestion-des-mots-cles/index.html"
 to = "/fonctionnalites/2028-ameliorer-la-gestion-des-mots-cles/"
 
@@ -91,8 +171,16 @@ from = "/fonctionnalites/2022-convertir-le-regime-dinscription-en-taxonomy/index
 to = "/fonctionnalites/2028-convertir-le-regime-dinscription-en-taxonomy/"
 
 [[redirects]]
+from = "/fonctionnalites/2025-types-darticles-hal/index.html"
+to = "/fonctionnalites/2028-types-darticles-hal/"
+
+[[redirects]]
 from = "/fonctionnalites/2022-gerer-des-templates-de-sites/index.html"
 to = "/fonctionnalites/2028-gerer-des-templates-de-sites/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-publication-dans-le-futur-des-pages/index.html"
+to = "/fonctionnalites/2028-publication-dans-le-futur-des-pages/"
 
 [[redirects]]
 from = "/fonctionnalites/2024-mise-a-jour-par-lots-des-formations/index.html"
@@ -105,6 +193,10 @@ to = "/fonctionnalites/2027-amelioration-des-fils-dariane/"
 [[redirects]]
 from = "/fonctionnalites/2022-block-map/index.html"
 to = "/fonctionnalites/2028-block-map/"
+
+[[redirects]]
+from = "/fonctionnalites/2025-manque-de-precision-sur-un-champ-de-formulaire-media/index.html"
+to = "/fonctionnalites/2028-manque-de-precision-sur-un-champ-de-formulaire-media/"
 
 [[redirects]]
 from = "/projets/index.html"
