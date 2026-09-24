@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fonctionnalites/2023-recherche-globale-dans-lextranet/index.html"
+to = "/fonctionnalites/2028-recherche-globale-dans-lextranet/"
+
+[[redirects]]
 from = "/fonctionnalites/2026-web-to-print/index.html"
 to = "/fonctionnalites/2027-web-to-print/"
 
@@ -27,8 +31,20 @@ from = "/fonctionnalites/2025-ajout-de-feature-lieu-sur-agenda/index.html"
 to = "/fonctionnalites/2025-gestion-des-lieux-des-evenements-et-expositions/"
 
 [[redirects]]
+from = "/fonctionnalites/2022-ameliorer-la-gestion-des-mots-cles/index.html"
+to = "/fonctionnalites/2028-ameliorer-la-gestion-des-mots-cles/"
+
+[[redirects]]
+from = "/fonctionnalites/2022-convertir-le-regime-dinscription-en-taxonomy/index.html"
+to = "/fonctionnalites/2028-convertir-le-regime-dinscription-en-taxonomy/"
+
+[[redirects]]
 from = "/fonctionnalites/2026-amelioration-des-fils-dariane/index.html"
 to = "/fonctionnalites/2027-amelioration-des-fils-dariane/"
+
+[[redirects]]
+from = "/fonctionnalites/2022-block-map/index.html"
+to = "/fonctionnalites/2028-block-map/"
 
 [[redirects]]
 from = "/projets/index.html"
