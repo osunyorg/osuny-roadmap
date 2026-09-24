@@ -15,6 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fonctionnalites/2024-nettoyage-des-liens-en-dur/index.html"
+to = "/fonctionnalites/2028-nettoyage-des-liens-en-dur/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-ajouter-la-possibilite-dinverser-les-chapitres-avec-images/index.html"
+to = "/fonctionnalites/2028-ajouter-la-possibilite-dinverser-les-chapitres-avec-images/"
+
+[[redirects]]
 from = "/fonctionnalites/2023-recherche-globale-dans-lextranet/index.html"
 to = "/fonctionnalites/2028-recherche-globale-dans-lextranet/"
 
@@ -23,12 +31,56 @@ from = "/fonctionnalites/2026-web-to-print/index.html"
 to = "/fonctionnalites/2027-web-to-print/"
 
 [[redirects]]
+from = "/fonctionnalites/2023-job-board-dans-lextranet/index.html"
+to = "/fonctionnalites/2028-job-board-dans-lextranet/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-unification-des-organisations/index.html"
+to = "/fonctionnalites/2028-unification-des-organisations/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-rendre-les-blocs-title-et-text-editables-in-place/index.html"
+to = "/fonctionnalites/2028-rendre-les-blocs-title-et-text-editables-in-place/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-aide-a-laccessibilite-dans-le-back-office/index.html"
+to = "/fonctionnalites/2028-aide-a-laccessibilite-dans-le-back-office/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-preciser-la-langue-dun-chapitre/index.html"
+to = "/fonctionnalites/2028-preciser-la-langue-dun-chapitre/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-menus-ajout-dun-bouton-restaurer-le-menu-automatique/index.html"
+to = "/fonctionnalites/2028-menus-ajout-dun-bouton-restaurer-le-menu-automatique/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-avoir-un-bloc-calendrier-qui-permet-dafficher-un-calendrier-depuis-une-source-externe-ou-source-inte/index.html"
+to = "/fonctionnalites/2028-avoir-un-bloc-calendrier-qui-permet-dafficher-un-calendrier-depuis-une-source-externe-ou-source-inte/"
+
+[[redirects]]
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/devis-001935-noesya-rennes-metropolepdf/"
 
 [[redirects]]
+from = "/fonctionnalites/2024-possibilite-de-mettre-en-avant-un-projet-portfolio/index.html"
+to = "/fonctionnalites/2028-possibilite-de-mettre-en-avant-un-projet-portfolio/"
+
+[[redirects]]
 from = "/fonctionnalites/2025-ajout-de-feature-lieu-sur-agenda/index.html"
 to = "/fonctionnalites/2025-gestion-des-lieux-des-evenements-et-expositions/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-option-des-pages-speciales/index.html"
+to = "/fonctionnalites/2028-option-des-pages-speciales/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-mise-a-jour-vers-le-sanitizer-html5/index.html"
+to = "/fonctionnalites/2028-mise-a-jour-vers-le-sanitizer-html5/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-mettre-les-categories-de-documents-dextranet-en-mode-taxo/index.html"
+to = "/fonctionnalites/2028-mettre-les-categories-de-documents-dextranet-en-mode-taxo/"
 
 [[redirects]]
 from = "/fonctionnalites/2022-ameliorer-la-gestion-des-mots-cles/index.html"
@@ -37,6 +89,14 @@ to = "/fonctionnalites/2028-ameliorer-la-gestion-des-mots-cles/"
 [[redirects]]
 from = "/fonctionnalites/2022-convertir-le-regime-dinscription-en-taxonomy/index.html"
 to = "/fonctionnalites/2028-convertir-le-regime-dinscription-en-taxonomy/"
+
+[[redirects]]
+from = "/fonctionnalites/2022-gerer-des-templates-de-sites/index.html"
+to = "/fonctionnalites/2028-gerer-des-templates-de-sites/"
+
+[[redirects]]
+from = "/fonctionnalites/2024-mise-a-jour-par-lots-des-formations/index.html"
+to = "/fonctionnalites/2028-mise-a-jour-par-lots-des-formations/"
 
 [[redirects]]
 from = "/fonctionnalites/2026-amelioration-des-fils-dariane/index.html"
@@ -49,4 +109,12 @@ to = "/fonctionnalites/2028-block-map/"
 [[redirects]]
 from = "/projets/index.html"
 to = "/fonctionnalites/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-automatisation-des-transcriptions-video-et-audio/index.html"
+to = "/fonctionnalites/2028-automatisation-des-transcriptions-video-et-audio/"
+
+[[redirects]]
+from = "/fonctionnalites/2023-pouvoir-publier-ou-non-un-contenu-au-niveau-de-larborescence-et-non-pas-seulement-a-linterieur-de-ch/index.html"
+to = "/fonctionnalites/2028-pouvoir-publier-ou-non-un-contenu-au-niveau-de-larborescence-et-non-pas-seulement-a-linterieur-de-ch/"
 
