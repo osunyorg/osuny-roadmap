@@ -43,6 +43,10 @@ from = "/fonctionnalites/2025-bloc-personnes-options-daffichage/index.html"
 to = "/fonctionnalites/2028-bloc-personnes-options-daffichage/"
 
 [[redirects]]
+from = "/fonctionnalites/2026-feature-mise-en-avant-du-bloc-titre/index.html"
+to = "/fonctionnalites/2028-feature-mise-en-avant-du-bloc-titre/"
+
+[[redirects]]
 from = "/fonctionnalites/2025-source-pour-liens-de-menus/index.html"
 to = "/fonctionnalites/2028-source-pour-liens-de-menus/"
 
