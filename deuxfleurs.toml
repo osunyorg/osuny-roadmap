@@ -87,6 +87,10 @@ from = "/fonctionnalites/2025-integration-pictotheque/index.html"
 to = "/fonctionnalites/2028-integration-pictotheque/"
 
 [[redirects]]
+from = "/fonctionnalites/2028-agenda-v2/index.html"
+to = "/fonctionnalites/2028-agenda-v3/"
+
+[[redirects]]
 from = "/fonctionnalites/2024-rendre-les-blocs-title-et-text-editables-in-place/index.html"
 to = "/fonctionnalites/2028-rendre-les-blocs-title-et-text-editables-in-place/"
 
@@ -196,7 +200,7 @@ to = "/fonctionnalites/2027-amelioration-des-fils-dariane/"
 
 [[redirects]]
 from = "/fonctionnalites/2026-agenda-v2/index.html"
-to = "/fonctionnalites/2028-agenda-v2/"
+to = "/fonctionnalites/2028-agenda-v3/"
 
 [[redirects]]
 from = "/fonctionnalites/2022-block-map/index.html"
