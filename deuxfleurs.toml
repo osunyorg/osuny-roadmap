@@ -195,6 +195,10 @@ from = "/fonctionnalites/2026-amelioration-des-fils-dariane/index.html"
 to = "/fonctionnalites/2027-amelioration-des-fils-dariane/"
 
 [[redirects]]
+from = "/fonctionnalites/2026-agenda-v2/index.html"
+to = "/fonctionnalites/2028-agenda-v2/"
+
+[[redirects]]
 from = "/fonctionnalites/2022-block-map/index.html"
 to = "/fonctionnalites/2028-block-map/"
 
