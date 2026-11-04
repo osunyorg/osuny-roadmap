@@ -15,7 +15,7 @@ meta:
     slug: "agenda-v2"
   dates:
     created_at: 2026-04-09T15:55:07+02:00
-    updated_at: 2026-11-04T11:11:48+01:00
+    updated_at: 2026-11-04T11:18:21+01:00
     published_at: 2026-04-09T15:55:07+02:00
 search:
   id: "b36c63d7-654e-4384-a923-b3636fa38d6f"
@@ -28,7 +28,7 @@ search:
   summary: >-
     <p>Agenda amélioré pour mieux correspondre aux usages qui en sont faits.</p>
   body: >-
-    <p>Nouvelles fonctionnalités  <br>   <br> modélisation des jours et heures d'ouverture de chaque exposition  <br> modélisation des lieux  <br> gestion des ouvertures du lieu  <br> affichage des événements et exposition à la journée </p>  <p> Budget estimé  <br>  </p>  <p>€ (HT)</p>
+    <p>Nouvelles fonctionnalités  <br>   <br> Modélisation des jours et heures d'ouverture de chaque exposition  <br> Modélisation des lieux  <br> Gestion des ouvertures du lieu  <br> Affichage des événements et exposition à la journée </p>  <p> Référence  <br>   <br>L'agenda proposé par le musée du Louvre est l'exemple à suivre pour cette nouvelle version.</p>  <p>https://www.louvre.fr/expositions-et-evenements/evenements-activites</p>  <p> Temps et budget estimé  <br>  </p>  <p>Jours <br>Jours de travail</p>  <p>€ (HT) <br>Budget</p>
 
 year: 2028
 date: 2028-01-01
@@ -57,9 +57,40 @@ summary: >-
   <p>Agenda amélioré pour mieux correspondre aux usages qui en sont faits.</p>
 header_cta:
 
+projects_categories:
+  - "agenda"
+  - "amelioration-prioritaire"
+  - "a-developper"
+taxonomies:
+  - permalink: ""
+    path: ""
+    slug: ""
+    file: ""
+    name: >-
+      Catégories
+    categories:
+      - permalink: "/fonctionnalites/agenda/"
+        path: "/projects_categories/agenda"
+        slug: "agenda"
+        file: "content/fr/projects_categories/agenda/_index.html"
+        name: >-
+          Agenda
+      - permalink: "/fonctionnalites/amelioration-prioritaire/"
+        path: "/projects_categories/amelioration-prioritaire"
+        slug: "amelioration-prioritaire"
+        file: "content/fr/projects_categories/amelioration-prioritaire/_index.html"
+        name: >-
+          Développement prioritaire
+      - permalink: "/fonctionnalites/a-developper/"
+        path: "/projects_categories/a-developper"
+        slug: "a-developper"
+        file: "content/fr/projects_categories/a-developper/_index.html"
+        name: >-
+          À développer
+
 
 contents_reading_time:
-  seconds: 9
+  seconds: 17
   text: >-
     moins d'une minute
 contents:
@@ -95,16 +126,16 @@ contents:
     data:
       layout: no_background
       text: >-
-        <ul> <li>modélisation des jours et heures d'ouverture de chaque exposition</li> <li>modélisation des lieux</li> <li>gestion des ouvertures du lieu</li> <li>affichage des événements et exposition à la journée</li> </ul>
+        <ul> <li>Modélisation des jours et heures d'ouverture de chaque exposition</li> <li>Modélisation des lieux</li> <li>Gestion des ouvertures du lieu</li> <li>Affichage des événements et exposition à la journée</li> </ul>
 
 
 
   - kind: block
     template: title
     title: >-
-      Budget estimé
+      Référence
     slug: >-
-      budget-estime
+      reference
     ranks:
       base: 2
       self: 2
@@ -112,7 +143,54 @@ contents:
       active: true
       title: 
         value: >-
-          Budget estimé
+          Référence
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 3
+    top:
+      active: true
+      description: >-
+        <p>L'agenda proposé par le musée du Louvre est l'exemple à suivre pour cette nouvelle version.</p>
+    data:
+      description: >-
+        <p>L'agenda proposé par le musée du Louvre est l'exemple à suivre pour cette nouvelle version.</p>
+      layout: cards
+      options:
+        icons: false
+
+      links:
+        - 
+
+
+          url: >-
+            https://www.louvre.fr/expositions-et-evenements/evenements-activites
+          external: true
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Temps et budget estimé
+    slug: >-
+      temps-et-budget-estime
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Temps et budget estimé
         heading: 2
 
     data:
@@ -131,10 +209,17 @@ contents:
     data:
 
       figures:
+        - number: 12
+          unit: >-
+            Jours
+          description: >-
+            Jours de travail
+
         - number: 10000
           unit: >-
             € (HT)
-
+          description: >-
+            Budget
 
 
 
