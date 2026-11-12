@@ -99,6 +99,10 @@ from = "/fonctionnalites/2023-aide-a-laccessibilite-dans-le-back-office/index.ht
 to = "/fonctionnalites/2028-aide-a-laccessibilite-dans-le-back-office/"
 
 [[redirects]]
+from = "/fonctionnalites/2027-extranet-v2-et-sites-prives/index.html"
+to = "/fonctionnalites/2028-extranet-v2-et-sites-prives/"
+
+[[redirects]]
 from = "/fonctionnalites/2023-preciser-la-langue-dun-chapitre/index.html"
 to = "/fonctionnalites/2028-preciser-la-langue-dun-chapitre/"
 
